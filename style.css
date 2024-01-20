@@ -1,0 +1,30 @@
+/* 文字コードの設定 */
+@charset "UTF-8";
+
+.red {
+    background-color: red;
+    height: 100px;
+}
+.green {
+    background-color: green;
+    height: 100px;
+}
+.blue {
+    background-color: blue;
+    height: 100px;
+}
+
+/* カラーコードで指定する場合 */
+
+.red {
+    background-color: #ff0000;
+    height: 100px;
+}
+.green {
+    background-color: #00ff00;
+    height: 100px;
+}
+.blue {
+    background-color: #0000ff;
+    height: 100px;
+}
